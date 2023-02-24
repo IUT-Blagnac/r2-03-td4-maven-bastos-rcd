@@ -17,5 +17,7 @@ public class Main {
         
 		maPile.vider();
         if(!maPile.est_vide()) System.out.println("NOK");
+
+        System.out.println("Test du pom.xml");
     }
 }
